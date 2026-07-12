@@ -1,43 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=Mashal%20Alnasser&fontSize=55&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=250&text=Mashal%20Alnasser&fontSize=60&fontColor=c0caf5&animation=twinkling&desc=Software%20Engineer%20@%20SecureHoot&descSize=22&descAlignY=68" width="100%"/>
 
 <a href="https://github.com/mashalnasser">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=React+Native+%7C+Flutter+%7C+TypeScript;Building+beautiful+mobile+experiences;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=%F0%9F%92%BC+Software+Engineer+%40+SecureHoot;%F0%9F%93%B1+React+Native+%C2%B7+Flutter+%C2%B7+TypeScript;%F0%9F%8C%90+Full-Stack+Mobile+%26+Web+Developer;%E2%9A%A1+Building+products+people+love" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💼_SecureHoot-Software_Engineer-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="SecureHoot" />
+<img src="https://img.shields.io/badge/📍_Kuwait-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Kuwait" />
+<img src="https://komarev.com/ghpvc/?username=mashalnasser&color=7dcfff&style=for-the-badge&label=Visitors" alt="Profile Views" />
 
 </div>
 
-## 👋 About Me
+<br>
 
-- 📱 Mobile developer building cross-platform apps with **React Native** & **Flutter**
-- 🌐 Full-stack projects with **TypeScript**, **Node.js** & modern web tech
-- 🇰🇼 Based in Kuwait
-- 🛠️ Currently working on **[Kashkha](https://github.com/mashalnasser/Kashkha)** — a bilingual React Native app, where elegance begins ✨
-- 🌱 Always exploring new technologies and leveling up my skills
+## 🧑‍🚀 About Me
+
+```typescript
+const mashal = {
+  name: "Mashal Alnasser | مشعل الناصر",
+  role: "Software Engineer @ SecureHoot 💼",
+  location: "Kuwait 🇰🇼",
+  code: ["TypeScript", "JavaScript", "Dart"],
+  building: {
+    mobile: ["React Native", "Flutter", "Expo"],
+    web: ["React", "Node.js"],
+    backend: ["Express", "Firebase", "REST APIs"],
+  },
+  clientProjects: ["Factive 🚀", "Otla 🛒"], // via SecureHoot
+  personalProject: "Kashkha ✨ — where elegance begins",
+  currentFocus: "Shipping full-stack products end-to-end 🚀",
+};
+```
 
 <br>
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Working On
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+| Project | Role | Stack |
+|:---:|:---:|:---:|
+| **Factive** — founded by Mohammed Almarzouq | Full-stack development via **SecureHoot**: mobile app, website, backend & admin dashboard | React Native · TypeScript · Node.js |
+| **Otla** | Full-stack development via **SecureHoot**: dashboard & backend | TypeScript · Node.js |
+| **[Kashkha](https://github.com/mashalnasser/Kashkha)** ✨ | My personal bilingual app — *where elegance begins* | React Native · TypeScript |
 
-### Mobile & Frontend
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+</div>
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,dart,react,flutter,nodejs&theme=dark" /></a>
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=express,firebase,mongodb,git,figma,vscode&theme=dark" /></a>
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mashalnasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 
 </div>
 
@@ -47,28 +77,42 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mashalnasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalnasser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mashalnasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalnasser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" height="170" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mashalnasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mashalnasser&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mashalnasser&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashalnasser/mashalnasser/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashalnasser/mashalnasser/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mashalnasser/mashalnasser/output/github-snake-dark.svg" alt="Snake animation" />
+</picture>
 
 </div>
 
 <br>
 
-## 📫 Get In Touch
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mashalnasser&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=7dcfff" width="97%" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -81,8 +125,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mashalnasser&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:7aa2f7&height=130&section=footer" width="100%"/>
 
 </div>
