@@ -37,15 +37,43 @@ const mashal = {
 
 <br>
 
-## 🚀 What I'm Working On
+## 🚀 Projects
 
 <div align="center">
 
-| Project | Role | Stack |
-|:---:|:---:|:---:|
-| **Factive** — founded by Mohammed Almarzouq | Full-stack development via **SecureHoot**: mobile app, website, backend & admin dashboard | React Native · TypeScript · Node.js |
-| **Otla** | Full-stack development via **SecureHoot**: dashboard & backend | TypeScript · Node.js |
-| **[Kashkha](https://github.com/mashalnasser/Kashkha)** ✨ | My personal bilingual app — *where elegance begins* | React Native · TypeScript |
+<table>
+<tr>
+<td align="center" width="33%">
+<br>
+<h3>🚀 Factive</h3>
+<p><em>Founded by Mohammed Almarzouq</em></p>
+<p>Full-stack development via <b>SecureHoot</b> — mobile app, website, backend & admin dashboard</p>
+<img src="https://img.shields.io/badge/-React_Native-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<h3>🛒 Otla</h3>
+<p><em>Client project</em></p>
+<p>Dashboard & backend development via <b>SecureHoot</b> — admin panel and REST APIs</p>
+<img src="https://img.shields.io/badge/-TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<h3>✨ Kashkha</h3>
+<p><em>Personal project</em></p>
+<p>Bilingual React Native app — <b>where elegance begins</b>. Designed & built end-to-end</p>
+<img src="https://img.shields.io/badge/-React_Native-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" />
+<br><br>
+<a href="https://github.com/mashalnasser/Kashkha"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -63,22 +91,21 @@ const mashal = {
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mashalnasser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-
-</div>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mashalnasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalnasser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" height="170" alt="Top Languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="97%" alt="Profile Details" />
+
+<br>
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48.5%" alt="Stats" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48.5%" alt="Repos per Language" />
+
+<br>
+
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48.5%" alt="Most Commit Language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48.5%" alt="Productive Time" />
 
 <br><br>
 
