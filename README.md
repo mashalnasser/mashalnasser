@@ -52,54 +52,6 @@ Full-stack delivery on client products — React Native apps, marketing sites, N
 
 <br>
 
-## Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Factive
-
-Full-stack development via **SecureHoot** — mobile app, website, backend and admin dashboard.
-
-`React Native` `TypeScript` `Node.js`
-
-</td>
-<td width="33%" valign="top">
-
-### Otla
-
-Dashboard and backend development via **SecureHoot** — admin panel and REST APIs.
-
-`TypeScript` `Node.js` `Express`
-
-</td>
-<td width="33%" valign="top">
-
-### Kashkha
-
-Personal product — bilingual commerce platform, *where elegance begins*. Designed and built solo.
-
-`React Native` `NestJS` `Next.js`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-**Inside Kashkha** — three services, built and maintained end-to-end:
-
-<table>
-<tr>
-<td width="33%" valign="top"><b>App</b><br><sub>React Native · Expo · TypeScript</sub><br><sub>Bilingual AR / EN mobile client</sub></td>
-<td width="33%" valign="top"><b>Backend</b><br><sub>NestJS · MongoDB</sub><br><sub>REST APIs, auth, data layer</sub></td>
-<td width="33%" valign="top"><b>Admin</b><br><sub>Next.js · shadcn/ui</sub><br><sub>Catalog and order dashboard</sub></td>
-</tr>
-</table>
-
-<br>
-
 ## Stack
 
 <table>
